@@ -462,7 +462,7 @@ secrets
 Current version:
 
 ```text
-1.0.0
+0.0.1
 ```
 
 ---
